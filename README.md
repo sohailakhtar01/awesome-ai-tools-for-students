@@ -704,6 +704,29 @@ Scite shows you how research papers have been cited — and crucially, whether t
 
 ---
 
+#### 🔵 Citely
+**by Citely** · [citely.ai](https://citely.ai)
+
+An AI citation checker and academic source finder that helps students verify references, detect questionable citations, and find supporting sources for claims.
+
+| Attribute | Details |
+|-----------|---------|
+| **Free Tier** | See current website |
+| **Paid Plan** | See current website |
+| **Best For** | Citation verification, source finding, claim support |
+| **Beginner Friendly** | ✅ Yes |
+| **Student Use Cases** | Checking references, finding academic sources, verifying AI-generated citations |
+
+**Pros:**
+- Combines citation checking with academic source finding
+- Useful when reviewing AI-generated or manually collected references
+- Helps students ground claims in real academic sources
+
+**Limitations:**
+- Always review the source yourself before citing it in submitted work
+
+---
+
 ### 🎨 AI Presentation Tools
 
 > Tools that help you create polished, professional presentations without spending hours on design.
