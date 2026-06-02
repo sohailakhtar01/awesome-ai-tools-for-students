@@ -756,6 +756,30 @@ A narrative-first AI presentation tool. Tome is designed for storytelling — it
 
 ---
 
+#### 🟠 FigPad
+**by FigPad** · [figpad.ai](https://figpad.ai)
+
+FigPad is an AI workspace for creating scientific figures for papers, posters, and class presentations. Students can generate figures from prompts, sketches, or reference images, then export editable SVG/PPTX assets.
+
+| Attribute | Details |
+|-----------|---------|
+| **Free Tier** | ✅ Yes — account-based credits; check current usage limits |
+| **Paid Plan** | Paid plans available for higher usage |
+| **Best For** | Scientific figures, graphical abstracts, presentation visuals, vector export |
+| **Beginner Friendly** | 🟡 Moderate |
+| **Student Use Cases** | Lab reports, thesis figures, seminar slides, research posters |
+
+**Pros:**
+- Built specifically for scientific and academic visuals
+- Supports prompt, sketch, and reference-image workflows
+- Exports editable SVG/PPTX assets for later refinement
+
+**Limitations:**
+- Best suited to research visuals rather than general slide deck generation
+- Requires review and editing before using figures in formal submissions
+
+---
+
 ### 🧮 AI Math Tools
 
 > Tools that help you solve, understand, and learn mathematics — from algebra to calculus and beyond.
