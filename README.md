@@ -273,6 +273,30 @@ An AI rewriting assistant that suggests alternative phrasings in real-time, pres
 
 ---
 
+#### 🟠 Humanize-Text
+**by Lynote AI** · [github.com/lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)
+
+An open-source Python toolkit for students who want to inspect and control how AI-assisted drafts are rewritten. It provides four documented methods and a configurable multi-stage pipeline rather than a closed web editor.
+
+| Attribute | Details |
+|-----------|---------|
+| **Free Tier** | ✅ Yes — MIT-licensed source code; configured API providers may charge for usage |
+| **Paid Plan** | None |
+| **Best For** | Inspectable rewriting workflows, multilingual drafts, Python projects |
+| **Beginner Friendly** | 🟡 Moderate — requires Python setup and API configuration |
+| **Student Use Cases** | Revising permitted AI-assisted drafts, studying rewriting techniques, experimenting with NLP pipelines |
+
+**Pros:**
+- Open-source implementation with documented intermediate stages
+- Works with configurable OpenAI-compatible LLM endpoints
+- Includes examples and four reference approaches
+
+**Limitations:**
+- Requires local Python setup and external translation services
+- Students must follow institutional AI-use and disclosure policies
+
+---
+
 #### ⚪ Hemingway Editor
 **by Hemingway App LLC** · [hemingwayapp.com](https://hemingwayapp.com)
 
