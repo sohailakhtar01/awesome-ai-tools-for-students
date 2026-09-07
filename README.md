@@ -112,7 +112,7 @@ These tools have **genuinely useful free tiers** — not just 3-day trials.
 ### 💻 Completing a Coding Assignment
 1. **GitHub Copilot** — autocomplete and code suggestions in your editor
 2. **Cursor** — AI-native editor that understands your whole project
-3. **ChatGPT** — explain error messages and debug logic
+4. **ChatGPT** — explain error messages and debug logic
 4. **Replit** — run and test code without local setup
 
 ### 🧮 Studying for a Math/Science Exam
@@ -131,11 +131,12 @@ These tools have **genuinely useful free tiers** — not just 3-day trials.
 1. **Gamma** — generate a full deck in minutes
 2. **Perplexity AI** — research your topic with citations
 3. **ChatGPT** — write speaker notes and talking points
-4. **Grammarly** — proofread all slide text
+5. **Grammarly** — proofread all slide text
 
 ### 📋 Internship/Job Application
 1. **Kickresume** — build and format your resume
 2. **Rezi** — optimize for ATS keywords
+3. **[ResumeAI](https://withresumeai.com/)** — AI resume builder + free ATS checker (3/day anonymous, 10/day free account); State of ATS 2026 (738 employers; Workday 37.9%)
 3. **ChatGPT** — write and refine your cover letter
 4. **Grammarly** — final proofread
 
