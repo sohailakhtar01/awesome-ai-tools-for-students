@@ -425,8 +425,6 @@ Upload any academic paper and highlight confusing sections — Explainpaper expl
 
 ---
 
----
-
 #### 🟠 iBacalao
 **by Wawa Labs** · [ibacalao.com](https://www.ibacalao.com)
 
