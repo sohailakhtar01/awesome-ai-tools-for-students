@@ -425,6 +425,31 @@ Upload any academic paper and highlight confusing sections — Explainpaper expl
 
 ---
 
+---
+
+#### 🟠 iBacalao
+**by Wawa Labs** · [ibacalao.com](https://www.ibacalao.com)
+
+iBacalao is a Diploma Programme coursework-feedback tool for reviewing work you already wrote. It gives criterion-by-criterion feedback on Internal Assessments, Extended Essays, and Theory of Knowledge drafts without writing or rewriting the submission for you. It is independent and is not affiliated with the International Baccalaureate Organization.
+
+| Attribute | Details |
+|-----------|---------|
+| **Free Tier** | ✅ Yes — 3 free IA reviews, no credit card, plus the free tool set |
+| **Paid Plan** | Paid Pro and Ultra plans add higher review limits and additional feedback tools |
+| **Best For** | Diploma Programme IA, EE, and TOK draft revision |
+| **Beginner Friendly** | ✅ Yes |
+| **Student Use Cases** | Checking a draft against criteria, finding the highest-impact next revision, reviewing an updated draft |
+
+**Pros:**
+- Feedback is organized criterion by criterion rather than as a generic writing critique
+- Designed around Diploma Programme coursework workflows
+- Focuses on feedback and revision guidance rather than generating the student's submission
+
+**Limitations:**
+- Specialized for Diploma Programme coursework rather than general school writing
+- The free tier has limited review usage
+- AI feedback can be imperfect and should not replace teacher guidance or official assessment information
+
 ### 💻 AI Coding Tools for Students
 
 > Tools that make learning to code faster and help CS students complete projects with confidence.
