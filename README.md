@@ -425,6 +425,31 @@ Upload any academic paper and highlight confusing sections — Explainpaper expl
 
 ---
 
+#### 🟠 SummarizAI
+**by SummarizAI** · [summarizai.ink](https://summarizai.ink)
+
+A Chrome extension that puts an AI summary, clickable chapters, chat, and Study flashcards next to YouTube lectures and talks. Built for students who learn from recorded classes — skim the video, jump to the part you need, then quiz yourself afterwards instead of rewatching the whole thing.
+
+| Attribute | Details |
+|-----------|---------|
+| **Free Tier** | ✅ Yes — free plan for students |
+| **Paid Plan** | Pro plans for heavier use |
+| **Best For** | YouTube lecture review, chapter navigation, flashcards from video |
+| **Beginner Friendly** | ✅ Yes |
+| **Student Use Cases** | Reviewing recorded lectures, exam prep from talks, turning videos into flashcards |
+
+**Pros:**
+- Works on the YouTube watch page (no download or re-upload)
+- Combines summary, chapters, chat, and flashcards in one sidebar
+- Free plan available for students
+
+**Limitations:**
+- Chrome extension (Chromium browsers); not a mobile app
+- Best on videos with usable captions/transcripts
+- Free plan has usage limits vs Pro
+
+---
+
 ### 💻 AI Coding Tools for Students
 
 > Tools that make learning to code faster and help CS students complete projects with confidence.
